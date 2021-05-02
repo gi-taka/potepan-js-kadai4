@@ -1,0 +1,29 @@
+body {
+  background: #222222;
+  margin: 0 10%;
+}
+
+p {
+  font-size: 10px;
+  color: #FFF;
+}
+
+h3 {
+  color: #FFF;
+}
+
+.slider {
+  margin: 0 auto;
+  width: 50%;
+}
+
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #FFF;
+}
